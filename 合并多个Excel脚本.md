@@ -33,3 +33,5 @@ Application.ScreenUpdating = True
 MsgBox "共合并了" & Num & "个工作薄下的全部工作表。如下：" & Chr(13) & WbN, vbInformation, "提示"
 End Sub
 ```
+
+需要进入查看代码，再输入。
