@@ -1,2 +1,5 @@
 # AlphaGooo-shell
-个人shell技术积累，不定期更新。
+
+
+- [按需执行bash脚本](files/按需执行bash脚本.md) - 写一个shell脚本，但又不希望它马上执行，希望可以判断确认再执行脚本
+- [合并多个Excel脚本](files/合并多个Excel脚本.md) - 如果你需要把多个excel文件合成一个，那么可以参考这个脚本来实现
